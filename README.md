@@ -3,5 +3,7 @@ The world is filled with language barriers making it extremely difficult to talk
 
 # Installation guide
 git clone "https://github.com/Mica-Shatil/HackWestern8"
+
 pip install -r requirements.txt
+
 python ./app.py
