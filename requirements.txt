@@ -1,0 +1,10 @@
+PyQt5
+speech_recognition
+pyttsx3
+googletrans
+pprint
+threading
+gtts
+os
+playsound
+constants
